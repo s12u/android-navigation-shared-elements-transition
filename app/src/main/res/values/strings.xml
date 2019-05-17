@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">nav-shared-element-transition</string>
+
+    <string name="shared_image_view">sharedImageView</string>
+    <string name="shared_text_view">sharedTextView</string>
+    <string name="origin">Origin</string>
+    <string name="destination">Destination</string>
+    <string name="dog">Dog</string>
+
+    <string name="dog_detail">
+        <b>The domestic dog</b> (Canis lupus familiaris when considered a subspecies of the wolf or Canis familiaris
+        when considered a distinct species) is a member of the genus Canis (canines), which forms part of the wolf-like
+        canids, and is the most widely abundant terrestrial carnivore.
+        The dog and the extant gray wolf are sister taxa as modern wolves are not closely related to the wolves that
+        were first domesticated, which implies that the direct ancestor of the dog is extinct. The dog was the first
+        species to be domesticated and has been selectively bred over millennia for various behaviors, sensory
+        capabilities, and physical attributes.
+        Their long association with humans has led dogs to be uniquely attuned to human behavior and they are able to
+        thrive on a starch-rich diet that would be inadequate for other canid species. Dogs vary widely in shape, size
+        and colors. They perform many roles for humans, such as hunting, herding, pulling loads, protection, assisting
+        police and military, companionship and, more recently, aiding disabled people and therapeutic roles.
+        This influence on human society has given them the sobriquet of "man's best friend". The origin of the domestic
+        dog includes the dog\'s evolutionary divergence from the wolf, its domestication, and its development into dog
+        types and dog breeds. The dog is a member of the genus Canis, which forms part of the wolf-like canids, and was
+        the first species and the only large carnivore to have been domesticated.
+        The dog and the extant gray wolf are sister taxa, as modern wolves are not closely related to the population of
+        wolves that was first domesticated. The genetic divergence between dogs and wolves occurred between
+        40,000–20,000 years ago, just before or during the Last Glacial Maximum. This timespan represents the upper
+        time-limit for the commencement of domestication because it is the time of divergence and not the time of
+        domestication, which occurred later.
+        The domestication of animals commenced over 15,000 years ago, beginning with the grey wolf (Canis lupus) by
+        nomadic hunter-gatherers. The archaeological record and genetic analysis show the remains of the Bonn–Oberkassel
+        dog buried beside humans 14,200 years ago to be the first undisputed dog, with disputed remains occurring 36,000
+        years ago.
+        It was not until 11,000 years ago that people living in the Near East entered into relationships with wild
+        populations of aurochs, boar, sheep, and goats. Where the domestication of the dog took place remains debated,
+        with the most plausible proposals spanning Western Europe, Central Asia and East Asia. This has been made more
+        complicated by the recent proposal that an initial wolf population split into East and West Eurasian groups.
+        These two groups, before going extinct, were domesticated independently into two distinct dog populations
+        between 14,000 and 6,400 years ago. The Western Eurasian dog population was gradually and partially replaced by
+        East Asian dogs introduced by humans at least 6,400 years ago. This proposal is also debated.
+    </string>
+
+</resources>

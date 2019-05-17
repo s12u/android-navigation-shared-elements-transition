@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/action_detail" app:startDestination="@id/parentFragment">
+
+    <fragment android:id="@+id/parentFragment"
+              android:name="com.tistory.mybstory.android_shared_element_transition_example.ParentFragment"
+              android:label="fragment_parent" tools:layout="@layout/fragment_parent">
+        <action android:id="@+id/action_detail" app:destination="@id/detailFragment"/>
+    </fragment>
+
+    <fragment android:id="@+id/detailFragment"
+              android:name="com.tistory.mybstory.android_shared_element_transition_example.DetailFragment"
+              android:label="fragment_detail" tools:layout="@layout/fragment_detail"/>
+</navigation>
